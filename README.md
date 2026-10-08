@@ -15,120 +15,151 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0618,50:6D28D9,100:A855F7&height=200&section=header&text=Sneha%20&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=58" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Exploring+New+Technologies;Turning+Ideas+Into+Reality" alt="Typing SVG"/>
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-Hey! I'm **Sneha **, a Computer Science student passionate about Full Stack Development and software engineering.
-
-- 💻 Interested in developing complete web applications.
-- 🌱 Continuously learning frontend and backend technologies.
-- ⚛️ Building interactive and responsive user interfaces.
-- ⚙️ Exploring server-side development, APIs, and databases.
-- 🧠 Practicing Data Structures and Algorithms in C++.
-- 🚀 Interested in real-world software projects and AI-powered applications.
-- 🤝 Open to internships, collaboration, and learning opportunities.
-
----
-
-## 🛠️ Skills & Technologies
-
-### 🎨 Frontend Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-444444?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-7C3AED?style=for-the-badge"/>
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🌦️ Weather Forecast Application
-A web application for exploring weather conditions and forecasts.
-
-**Technologies:** HTML, CSS, JavaScript, Weather API
-
-### 🗳️ Online Voting System
-A web application concept for candidate information and digital voting workflows.
-
-**Technologies:** React.js, JavaScript, CSS
-
-### 🌐 Personal Portfolio Website
-A personal website to showcase skills, projects, and development progress.
-
-**Technologies:** HTML, CSS, JavaScript / React
-
----
-
-## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sneha30507&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha30507&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080510,35:2E1065,70:7C3AED,100:C084FC&height=230&section=header&text=Sneha&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=19&descAlignY=60" width="100%"/>
 
 <br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Sneha30507&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=C4B5FD&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Web+Experiences;Creative+Mind.+Developer+Mindset.;Learning+%7C+Building+%7C+Improving;Welcome+To+My+GitHub+Universe+%E2%9C%A8" alt="Animated introduction"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEVELOPMENT-7C3AED?style=for-the-badge&labelColor=10091D"/>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-A855F7?style=for-the-badge&labelColor=10091D"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## ◈ &nbsp; ABOUT ME
+
+<img align="right" width="130" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+
+Hey! I'm **Sneha** 👋
+
+A Computer Science student passionate about building meaningful digital experiences and exploring the world of software development.
+
+- 💻 Interested in full stack web development.
+- 🎨 Love creating clean and responsive user interfaces.
+- ⚙️ Exploring backend development, APIs, and databases.
+- 🧠 Practicing problem-solving with C++.
+- 🚀 Turning creative ideas into practical projects.
+- 🌱 Learning something new with every line of code.
+
+<br clear="right"/>
+
+---
+
+## ◈ &nbsp; TECH ARSENAL
+
+<div align="center">
+
+**✦ FRONTEND ✦**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend skills"/>
+
+<br/><br/>
+
+**✦ BACKEND & DATABASE ✦**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend and database technologies"/>
+
+<br/><br/>
+
+**✦ TOOLS & PROGRAMMING ✦**
+
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode&theme=dark" alt="Development tools"/>
+
+</div>
+
+---
+
+## ◈ &nbsp; FEATURED PROJECTS
+
+<div align="center">
+
+### 🌦️ WEATHER FORECAST APPLICATION
+
+*A smarter way to explore the weather.*
+
+A weather web application designed to display weather conditions and forecast information through a user-friendly interface.
+
+`HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `Weather API`
+
+---
+
+### 🗳️ ONLINE VOTING SYSTEM
+
+*Bringing digital voting workflows to the web.*
+
+A web project focused on candidate information, voting interactions, and results presentation.
+
+`React.js` &nbsp; `JavaScript` &nbsp; `CSS`
+
+---
+
+### 🌐 PERSONAL PORTFOLIO
+
+*My journey, skills, and projects — all in one place.*
+
+A personal portfolio website designed to showcase my work, technical skills, and development journey.
+
+`HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `React`
+
+</div>
+
+> Add actual repository and live-demo URLs to these projects when ready.
+
+---
+
+## ◈ &nbsp; GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=Sneha30507&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0618&title_color=C084FC&icon_color=A78BFA&text_color=E9D5FF&rank_icon=github" alt="GitHub profile statistics"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha30507&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0618&title_color=C084FC&text_color=E9D5FF" alt="Most used programming languages"/>
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=Sneha30507&theme=midnight-purple&hide_border=true&background=0D0618&ring=A855F7&fire=C084FC&currStreakLabel=C4B5FD" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## ◈ &nbsp; LET'S CONNECT
 
 <div align="center">
 
 <a href="https://github.com/Sneha30507">
-<img src="https://img.shields.io/badge/GitHub-Sneha30507-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-LET'S%20CONNECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<!-- Replace this URL with your actual LinkedIn profile -->
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-FIND%20ME-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sneha30507&style=for-the-badge&color=7C3AED&label=PROFILE+VISITS" alt="Profile visit counter"/>
+
+<br/><br/>
+
+### ✨ DREAM BIG. BUILD SMART. KEEP GROWING. ✨
+
+*Every great developer started with a single line of code.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080510,35:2E1065,70:7C3AED,100:C084FC&height=130&section=footer" width="100%"/>
+
 </div>
 
----
-
-<div align="center">
-
-### 💜 Code. Create. Learn. Grow.
-
-*Building my skills one project at a time.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0618,50:6D28D9,100:A855F7&height=100&section=footer" width="100%"/>
-
-</div>
 
