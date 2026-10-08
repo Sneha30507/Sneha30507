@@ -77,73 +77,24 @@ A Computer Science student passionate about software development and creating us
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<img src="https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=700&h=350&fit=crop" width="100%" alt="Weather Forecast"/>
-
 ### 🌦️ Weather Forecast Application
+A web application for exploring weather conditions and forecasts.
 
-Weather conditions and forecasts in a clean, user-friendly interface.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Weather API`
-
-<a href="https://github.com/Sneha30507">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=700&h=350&fit=crop" width="100%" alt="Online Voting System"/>
+**Technologies:** HTML, CSS, JavaScript, Weather API
 
 ### 🗳️ Online Voting System
+A web application concept for candidate information and digital voting workflows.
 
-A web interface for candidate information, voting workflows, and results.
-
-**Tech Stack**
-
-`React.js` `JavaScript` `CSS`
-
-<a href="https://github.com/Sneha30507">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-D946EF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
-
-<img src="https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=1000&h=350&fit=crop" width="100%" alt="Personal Portfolio Website"/>
+**Technologies:** React.js, JavaScript, CSS
 
 ### 🌐 Personal Portfolio Website
+A personal website to showcase skills, projects, and development progress.
 
-A personal space to showcase my skills, projects, and developer journey.
+**Technologies:** HTML, CSS, JavaScript / React
 
-**Tech Stack**
+** MORE PROJECT SOON ...
 
-`HTML` `CSS` `JavaScript` `React`
-
-<a href="https://github.com/Sneha30507">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:240A45,50:7C3AED,100:D946EF&height=3" width="80%"/>
-
-### ✨ More projects coming soon...
-
-</div>
+---
 
 
 ## 📊 GitHub Statistics
