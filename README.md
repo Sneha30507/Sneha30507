@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A102B,50:6D28D9,100:A855F7&height=200&section=header&text=Sneha%20Chaurasia&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0618,50:6D28D9,100:A855F7&height=200&section=header&text=Sneha%20Chaurasia&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Frontend+Developer;Building+Modern+Web+Experiences;Exploring+AI+%26+Software+Development;Always+Learning+Something+New" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Exploring+New+Technologies;Turning+Ideas+Into+Reality" alt="Typing SVG"/>
 
 </div>
 
@@ -27,57 +27,71 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Sneha**, a Computer Science student passionate about web development and software engineering.
+Hey! I'm **Sneha Chaurasia**, a Computer Science student passionate about Full Stack Development and software engineering.
 
-- 💻 Interested in building modern, responsive web applications.
-- 🌱 Currently improving my skills in React.js and software development.
+- 💻 Interested in developing complete web applications.
+- 🌱 Continuously learning frontend and backend technologies.
+- ⚛️ Building interactive and responsive user interfaces.
+- ⚙️ Exploring server-side development, APIs, and databases.
 - 🧠 Practicing Data Structures and Algorithms in C++.
-- 🚀 Exploring AI-powered applications and new technologies.
+- 🚀 Interested in real-world software projects and AI-powered applications.
 - 🤝 Open to internships, collaboration, and learning opportunities.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-<div align="center">
+### 🎨 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
-</div>
+### ⚙️ Backend Development
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-444444?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-7C3AED?style=for-the-badge"/>
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌦️ Weather Forecast Application
-A web application for checking weather conditions and forecasts.
+A web application for exploring weather conditions and forecasts.
 
-**Tech:** HTML, CSS, JavaScript, Weather API
+**Technologies:** HTML, CSS, JavaScript, Weather API
 
 ### 🗳️ Online Voting System
-A web-based voting project focused on candidate information and voting workflows.
+A web application concept for candidate information and digital voting workflows.
 
-**Tech:** React.js, JavaScript, CSS
+**Technologies:** React.js, JavaScript, CSS
 
-### 🌐 Personal Portfolio
-A personal website to showcase projects, skills, and developer information.
+### 🌐 Personal Portfolio Website
+A personal website to showcase skills, projects, and development progress.
 
-**Tech:** HTML, CSS, JavaScript / React
+**Technologies:** HTML, CSS, JavaScript / React
 
-### 🎮 Tic-Tac-Toe
-A simple interactive game built to practice frontend development.
+### 🤖 AI Software Engineering Agent
+Exploring an AI-powered approach to software development workflows.
 
-**Tech:** HTML, CSS, JavaScript
-
-> Add your actual repository and live-demo links to each project before publishing.
+**Planned features:** Task planning, code assistance, testing, and GitHub integration.
 
 ---
 
@@ -88,6 +102,8 @@ A simple interactive game built to practice frontend development.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sneha30507&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha30507&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
+
+<br/>
 
 <img width="90%" src="https://streak-stats.demolab.com?user=Sneha30507&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
 
@@ -100,11 +116,11 @@ A simple interactive game built to practice frontend development.
 <div align="center">
 
 <a href="https://github.com/Sneha30507">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Sneha30507-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -113,10 +129,11 @@ A simple interactive game built to practice frontend development.
 
 <div align="center">
 
-### ✨ Building. Learning. Growing. ✨
+### 💜 Code. Create. Learn. Grow.
 
-*Thanks for visiting my profile!*
+*Building my skills one project at a time.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A102B,50:6D28D9,100:A855F7&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0618,50:6D28D9,100:A855F7&height=100&section=footer" width="100%"/>
 
 </div>
+
