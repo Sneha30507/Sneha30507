@@ -124,43 +124,47 @@ A personal website showcasing my skills, projects, and journey as a developer.
 
 ---
 
-## ✦ GITHUB ANALYTICS
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=Sneha30507&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0618&title_color=C084FC&icon_color=A78BFA&text_color=E9D5FF&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sneha30507&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha30507&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
 
 <br/>
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha30507&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0618&title_color=C084FC&text_color=E9D5FF" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=Sneha30507&theme=midnight-purple&hide_border=true&background=0D0618&ring=A855F7&fire=D946EF&currStreakLabel=C4B5FD" alt="GitHub streak"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=Sneha30507&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## ✦ LET'S CONNECT
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Sneha30507">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Sneha30507-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/><br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Sneha30507&style=for-the-badge&color=8B5CF6&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
+---
 
-<br/><br/>
+<div align="center">
 
-### 💜 CODE. CREATE. GROW.
+### 💜 Code. Create. Learn. Grow.
+
+*Building my skills one project at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0618,50:6D28D9,100:A855F7&height=100&section=footer" width="100%"/>
+
+</div>
 
 *Dream big. Keep learning. Build something meaningful.*
 
