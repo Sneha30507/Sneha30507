@@ -74,55 +74,77 @@ A Computer Science student passionate about software development and creating us
 
 ---
 
-## ✦ FEATURED PROJECTS
+
+## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<h3>🌦️ Weather Forecast</h3>
+<img src="https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=700&h=350&fit=crop" width="100%" alt="Weather Forecast"/>
 
-A web application for exploring weather conditions and forecast information with a user-friendly interface.
+### 🌦️ Weather Forecast Application
 
-**Built with**
+Weather conditions and forecasts in a clean, user-friendly interface.
+
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript` `Weather API`
 
+<a href="https://github.com/Sneha30507">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<h3>🗳️ Online Voting System</h3>
+<img src="https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=700&h=350&fit=crop" width="100%" alt="Online Voting System"/>
 
-A web application concept featuring candidate information, voting interactions, and results presentation.
+### 🗳️ Online Voting System
 
-**Built with**
+A web interface for candidate information, voting workflows, and results.
+
+**Tech Stack**
 
 `React.js` `JavaScript` `CSS`
+
+<a href="https://github.com/Sneha30507">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-D946EF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2" align="center" valign="top">
 
-<h3>🌐 Personal Portfolio Website</h3>
+<img src="https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=1000&h=350&fit=crop" width="100%" alt="Personal Portfolio Website"/>
 
-A personal website showcasing my skills, projects, and journey as a developer.
+### 🌐 Personal Portfolio Website
 
-**Built with**
+A personal space to showcase my skills, projects, and developer journey.
+
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript` `React`
+
+<a href="https://github.com/Sneha30507">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:240A45,50:7C3AED,100:D946EF&height=3" width="80%"/>
+
+### ✨ More projects coming soon...
+
 </div>
 
-> Tip: Add your actual repository and live-demo links to each project to make this section clickable.
-
----
 
 ## 📊 GitHub Statistics
 
@@ -166,8 +188,3 @@ A personal website showcasing my skills, projects, and journey as a developer.
 
 </div>
 
-*Dream big. Keep learning. Build something meaningful.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05020D,35:240A45,70:7C3AED,100:D946EF&height=120&section=footer"/>
-
-</div>
