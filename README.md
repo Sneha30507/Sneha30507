@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0618,50:6D28D9,100:A855F7&height=200&section=header&text=Sneha%20Chaurasia&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0618,50:6D28D9,100:A855F7&height=200&section=header&text=Sneha%20&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=58" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Exploring+New+Technologies;Turning+Ideas+Into+Reality" alt="Typing SVG"/>
 
