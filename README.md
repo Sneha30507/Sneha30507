@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 About Me
 
-Hey! I'm **Sneha Chaurasia**, a Computer Science student passionate about Full Stack Development and software engineering.
+Hey! I'm **Sneha **, a Computer Science student passionate about Full Stack Development and software engineering.
 
 - 💻 Interested in developing complete web applications.
 - 🌱 Continuously learning frontend and backend technologies.
@@ -87,11 +87,6 @@ A web application concept for candidate information and digital voting workflows
 A personal website to showcase skills, projects, and development progress.
 
 **Technologies:** HTML, CSS, JavaScript / React
-
-### 🤖 AI Software Engineering Agent
-Exploring an AI-powered approach to software development workflows.
-
-**Planned features:** Task planning, code assistance, testing, and GitHub integration.
 
 ---
 
